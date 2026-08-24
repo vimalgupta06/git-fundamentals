@@ -6,3 +6,4 @@ this is fourth line in app.txt
 Fifth line in app.txt
 sixth line in app.txt
 testing vscode with wsl
+testing line 9
